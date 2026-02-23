@@ -15,8 +15,6 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://instagram.com/YOUR_USERNAME" target="blank">
-<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
 <a href="https://www.linkedin.com/in/satyajitysonkar" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
