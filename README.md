@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey, I'm Satyajit Sonkar 👋</h1>
 <h3 align="center">☁️ Cloud & DevOps Engineer | BSc Cloud Computing Student</h3>
 
@@ -17,8 +15,10 @@
 
 ## 🌐 Connect With Me
 <p align="left">
+<a href="https://instagram.com/YOUR_USERNAME" target="blank">
+<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
-<a href="www.linkedin.com/in/satyajitysonkar" target="blank">
+<a href="https://www.linkedin.com/in/satyajitysonkar" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:satyajitsonkar96@gmail.com">
@@ -60,17 +60,4 @@
 ---
 
 ## ⚡ Fun Fact
-💡 I love building real-world cloud projects and automating everything!<!--
-**satyajitsonkar96-afk/satyajitsonkar96-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I love building real-world cloud projects and automating everything!
