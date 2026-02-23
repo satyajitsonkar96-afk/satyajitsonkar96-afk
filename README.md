@@ -13,7 +13,6 @@
 - ⚙️ Passionate about DevOps, CI/CD & Automation
 - 💻 Working with Python, Java, SQL
 - 📊 Learning Data Tools like Power BI & Apache Spark
-- 🎯 Goal: Become a Cloud Solutions Architect
 
 ---
 
