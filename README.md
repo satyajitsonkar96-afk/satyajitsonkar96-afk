@@ -17,13 +17,11 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
-<a href="www.linkedin.com/in/satyajitysonkar
-" target="blank">
+<a href="www.linkedin.com/in/satyajitysonkar" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:satyajitsonkar96@gmail.com">
 <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
