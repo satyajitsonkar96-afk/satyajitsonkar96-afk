@@ -1,5 +1,9 @@
-<h1 align="center">Hey, I'm Satyajit Sonkar 👋</h1>
-<h3 align="center">☁️ Cloud & DevOps Engineer | BSc Cloud Computing Student</h3>
+<h1 align="center">Hey, I'm Satyajit Sonkar ☁️</h1>
+<h3 <h1 align="center">Hey, I'm Satyajit Sonkar 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=☁️+Cloud+%26+DevOps+Engineer;BSc+Cloud+Computing+Student" />
+</p>>
 
 ---
 
@@ -28,8 +32,6 @@
 
 ## 🧰 Tech Stack
 <p>
-## 🧰 Tech Stack
-<p>
 
 <!-- Cloud -->
 <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws"/>
@@ -56,7 +58,42 @@
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/Putty-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Office365-red?style=for-the-badge&logo=microsoftoffice"/>
+---
 
+## 🚀 Featured Project
+
+### 🔥 CI/CD Pipeline with AWS EC2, Docker & Jenkins
+
+📌 **Project Overview**  
+Built a complete CI/CD pipeline to automate application deployment using Jenkins, Docker, and AWS EC2.
+
+⚙️ **Tech Used**  
+- AWS EC2  
+- Docker  
+- Jenkins  
+- Git & GitHub  
+- Linux  
+
+🚀 **Key Features**  
+- Automated build & deployment using Jenkins  
+- Dockerized application for consistent environment  
+- Hosted on AWS EC2 instance  
+- Integrated GitHub for continuous integration  
+
+📊 **Workflow**  
+1. Developer pushes code to GitHub  
+2. Jenkins detects changes  
+3. Build process starts automatically  
+4. Docker image is created  
+5. Application deployed on EC2  
+
+💡 **Outcome**  
+- Reduced manual deployment effort  
+- Faster and reliable releases  
+- Real-world DevOps pipeline implementation  
+
+🔗 **Project Link**  
+👉 https://github.com/satyajitsonkar96-afk/Cloud-Native-CI-CD-Pipeline-on-AWS
 </p>
 
 ## 📊 GitHub Stats
