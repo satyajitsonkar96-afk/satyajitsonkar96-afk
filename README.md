@@ -10,10 +10,8 @@
 ## 🚀 About Me
 - 🎓 BSc in Cloud Computing (2nd Year)
 - ☁️ Exploring AWS, GCP & Azure
-- ⚙️ Passionate about DevOps, CI/CD & Automation
+- ⚙️ Passionate about DevOps
 - 💻 Working with Python, Java, SQL
-- 📊 Learning Data Tools like Power BI & Apache Spark
-
 ---
 
 ## 🌐 Connect With Me
