@@ -57,47 +57,6 @@
 <img src="https://img.shields.io/badge/Office365-red?style=for-the-badge&logo=microsoftoffice"/>
 ---
 
-## 🚀 Featured Project
-
-### 🔥 CI/CD Pipeline with AWS EC2, Docker & Jenkins
-
-📌 **Project Overview**  
-Built a complete CI/CD pipeline to automate application deployment using Jenkins, Docker, and AWS EC2.
-
-⚙️ **Tech Used**  
-- AWS EC2  
-- Docker  
-- Jenkins  
-- Git & GitHub  
-- Linux  
-
-🚀 **Key Features**  
-- Automated build & deployment using Jenkins  
-- Dockerized application for consistent environment  
-- Hosted on AWS EC2 instance  
-- Integrated GitHub for continuous integration  
-
-📊 **Workflow**  
-1. Developer pushes code to GitHub  
-2. Jenkins detects changes  
-3. Build process starts automatically  
-4. Docker image is created  
-5. Application deployed on EC2  
-
-💡 **Outcome**  
-- Reduced manual deployment effort  
-- Faster and reliable releases  
-- Real-world DevOps pipeline implementation  
-
-🔗 **Project Link**  
-👉 https://github.com/satyajitsonkar96-afk/Cloud-Native-CI-CD-Pipeline-on-AWS
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=satyajitsonkar96-afk&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitsonkar96-afk&theme=tokyonight" />
-</p>
 
 ---
 
