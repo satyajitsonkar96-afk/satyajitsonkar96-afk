@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 - 🎓 BSc in Cloud Computing (2nd Year)
 - ☁️ Exploring AWS, GCP & Azure
 - ⚙️ Passionate about DevOps
@@ -61,12 +61,11 @@
 
 ---
 
-## 🔥 Activity Graph
+## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajitsonkar96-afk&theme=tokyo-night"/>
 
 ---
 
-## ⚡ Fun Fact
 💡 I love building real-world cloud projects and automating everything!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=satyajitsonkar96-afk&color=blue)
