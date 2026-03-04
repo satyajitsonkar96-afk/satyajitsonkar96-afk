@@ -53,7 +53,7 @@
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Putty-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache Hbase-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Office365-red?style=for-the-badge&logo=microsoftoffice"/>
 ---
 
