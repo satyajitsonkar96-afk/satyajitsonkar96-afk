@@ -68,3 +68,5 @@
 
 ## ⚡ Fun Fact
 💡 I love building real-world cloud projects and automating everything!
+
+![Profile Views](https://komarev.com/ghpvc/?username=satyajitsonkar96-afk&color=blue)
