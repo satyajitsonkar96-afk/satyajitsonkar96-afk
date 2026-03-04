@@ -38,10 +38,11 @@
 <!-- DevOps -->
 <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions"/>
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="25">
+
 <!-- Programming -->
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
