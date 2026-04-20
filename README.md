@@ -1,196 +1,295 @@
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                         SATYAJIT SONKAR                          -->
+<!--               Cloud · DevSecOps · Kubernetes · ML                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:0e4429,100:00b4d8&height=230&section=header&text=SATYAJIT%20SONKAR&fontSize=48&fontColor=e6edf3&fontAlignY=32&desc=Cloud%20%7C%20DevSecOps%20%7C%20Kubernetes%20%7C%20ML%20Systems&descSize=17&descAlignY=52&animation=fadeIn&descColor=8b949e" width="100%" />
+# ⎯⎯ SATYAJIT SONKAR ⎯⎯
+
+### `Cloud Infrastructure` · `DevSecOps` · `Kubernetes` · `ML Systems`
 
 <br/>
 
-<a href="https://www.linkedin.com/in/satyajitsonkar" target="_blank">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="25"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:satyajitsonkar96@gmail.com">
-  <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/satyajitsonkar96-afk" target="_blank">
-  <img src="https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github&logoColor=white" height="25"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=Building+production-grade+cloud+infrastructure+%7C+CI%2FCD+%7C+ML+Systems" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyajitsonkar)
+[![Gmail](https://img.shields.io/badge/%20-satyajitsonkar96@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:satyajitsonkar96@gmail.com)
+[![GitHub](https://img.shields.io/badge/%20-satyajitsonkar96--afk-181717?style=flat&logo=github&logoColor=white)](https://github.com/satyajitsonkar96-afk)
+[![Location](https://img.shields.io/badge/%20-Ahilyanagar,%20India-1a73e8?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 <br/>
 
-## Who I Am
+<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-I design and deploy **production-grade cloud infrastructure**, **automated delivery pipelines**, and **ML-powered applications**. My work spans backend engineering, cloud architecture, DevSecOps, and applied machine learning — building systems that are secure by default, scalable under load, and fully automated from commit to production.
+### I build things that run in the cloud.
 
-I operate across the full stack: writing backend services in **Flask** and **FastAPI**, training and serving **ML models** with scikit-learn and Streamlit, packaging with **Docker**, orchestrating on **Kubernetes** clusters, and shipping through **Jenkins** and **GitHub Actions** — all on hardened **AWS** infrastructure with IAM-enforced least-privilege access.
+I architect **production-grade infrastructure on AWS**, automate delivery with **CI/CD pipelines**, orchestrate containers on **Kubernetes**, and build **ML-powered data systems** — all with security baked in from day one.
+
+My engineering philosophy is simple: **automate everything, secure everything, monitor everything.**
+
+Every project I ship follows a consistent pattern — containerized services, infrastructure-as-code, least-privilege IAM, and zero-downtime deployments. I don't just write code; I build systems designed to run unsupervised at scale.
+
+</td>
+<td width="40%" align="center">
+
+```text
+🎓  BSc Cloud Computing — 2027
+📍  Ahilyanagar, Maharashtra
+🔭  AWS Solutions Architect (Prep)
+🌐  English · 日本語 (N5)
+```
+
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
-## Technical Proficiency
+---
+
+<br/>
+
+<div align="center">
+
+## ⚙️ WHAT I WORK WITH
+
+</div>
+
+<br/>
+
+<div align="center">
+
+|  |  |
+|:---:|---|
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![EMR](https://img.shields.io/badge/EMR-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Data & ML** | ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+| **Infra** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🏗️ ENGINEERING PROJECTS
+
+</div>
+
+<br/>
+
+<!-- ─────────────── PROJECT 1 ─────────────── -->
 
 <table>
-  <tr>
-    <td><b>Cloud Platform</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
-      <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-      <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/EMR-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/EBS-3B48CC?style=flat-square&logo=amazonaws&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps & CI/CD</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data & ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Infrastructure & OS</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-    </td>
-  </tr>
+<tr>
+<td width="65%">
+
+### 🔷 Cloud-Native CI/CD Pipeline on AWS
+> *Automated delivery — commit to production in minutes.*
+
+**`Jenkins`** · **`Docker`** · **`Kubernetes`** · **`GitHub`** · **`Linux`**
+
+- End-to-end CI/CD eliminating manual deployment — **~60% faster releases**
+- Containerized multi-service apps with Docker; fault-tolerant K8s orchestration
+- Automated build triggers on push with **zero-downtime rolling updates**
+- **99%+ uptime** via Kubernetes namespace management & resource allocation
+- Secure container practices — env isolation, image hardening, config management
+
+<a href="https://github.com/satyajitsonkar96-afk/Cloud-Native-CI-CD-Pipeline-on-AWS">
+  <img src="https://img.shields.io/badge/VIEW_REPO_%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+</a>
+
+</td>
+<td width="35%" align="center">
+
+```
+┌─────────────────────┐
+│   GitHub (Push)      │
+│        ↓             │
+│   Jenkins (Build)    │
+│        ↓             │
+│   Docker (Package)   │
+│        ↓             │
+│   K8s (Deploy)       │
+│        ↓             │
+│   Production ✓       │
+└─────────────────────┘
+```
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## Engineering Work
+<!-- ─────────────── PROJECT 2 ─────────────── -->
 
-### 🔷 Cloud-Native CI/CD Pipeline on AWS
-
-> Fully automated delivery pipeline — from commit to production in minutes, not hours.
-
-<a href="https://github.com/satyajitsonkar96-afk/Cloud-Native-CI-CD-Pipeline-on-AWS">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsonkar96-afk&repo=Cloud-Native-CI-CD-Pipeline-on-AWS&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e" width="380"/>
-</a>
-
-**Stack:** `Jenkins` · `Docker` · `Kubernetes` · `GitHub` · `Linux`
-
-- Architected end-to-end CI/CD eliminating manual deployment — **~60% faster releases**
-- Containerized multi-service apps with Docker; orchestrated fault-tolerant deployments on K8s
-- Configured automated build triggers on push with **zero-downtime rolling updates**
-- Maintained **99%+ uptime** through Kubernetes namespace management and resource allocation
-- Enforced secure container practices — env isolation, image hardening, config management
-
-<br clear="right"/>
-
----
+<table>
+<tr>
+<td width="65%">
 
 ### 🔷 Student Management System — Flask on AWS EC2
+> *Production REST backend on hardened AWS with IAM security.*
 
-> Production-grade REST backend deployed on hardened AWS infrastructure with IAM security.
+**`Flask`** · **`AWS EC2`** · **`Python`** · **`SSH`** · **`Linux`**
+
+- Production REST API on EC2 with full Linux server lifecycle management
+- SSH key-pair auth + IAM role-based policies enforcing **least-privilege access**
+- Complete CRUD with relational DB supporting concurrent data access
+- Hardened with Security Groups, env-based config, restricted access policies
+- High availability via systemd — **automatic recovery on failure**
 
 <a href="https://github.com/satyajitsonkar96-afk/Students-Management-System">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsonkar96-afk&repo=Students-Management-System&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e" width="380"/>
+  <img src="https://img.shields.io/badge/VIEW_REPO_%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
 </a>
 
-**Stack:** `Flask` · `AWS EC2` · `Python` · `SSH` · `Linux`
+</td>
+<td width="35%" align="center">
 
-- Built and deployed production REST API on EC2 with full Linux server lifecycle management
-- Configured SSH key-pair auth + IAM role-based policies enforcing **least-privilege access**
-- Implemented complete CRUD with relational DB supporting concurrent data access
-- Hardened with Security Groups, env-based config, and restricted public access policies
-- Ensured HA via systemd service configuration for **automatic recovery on failure**
+```
+┌─────────────────────┐
+│   Client Request     │
+│        ↓             │
+│   EC2 (Ubuntu)       │
+│        ↓             │
+│   Flask API          │
+│        ↓             │
+│   PostgreSQL DB      │
+│        ↓             │
+│   JSON Response ✓    │
+└─────────────────────┘
+```
 
-<br clear="right"/>
-
----
-
-### 🔷 Kubernetes Microservice Deployment — FastAPI on AWS EC2 + K8s
-
-> End-to-end container orchestration — from FastAPI source to a live K8s cluster on AWS.
-
-<a href="https://github.com/satyajitsonkar96-afk/k8s-microservice">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsonkar96-afk&repo=k8s-microservice&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e" width="380"/>
-</a>
-
-**Stack:** `FastAPI` · `Docker` · `Kubernetes` · `AWS EC2` · `kubeadm`
-
-- Built a Python microservice with FastAPI, containerized and pushed to **DockerHub**
-- Provisioned EC2 instance, installed Docker + K8s tooling, initialized cluster via **kubeadm**
-- Deployed via Kubernetes Deployment manifests with **ReplicaSet-backed fault tolerance**
-- Exposed service externally using **NodePort** on EC2 public IP
-- Validated locally on **Minikube** and in production on AWS — full dual-environment workflow
-
-<br clear="right"/>
-
----
-
-### 🔷 AirAware — ML-Powered Air Quality Prediction System
-
-> End-to-end ML pipeline: data preprocessing → model training → prediction API → interactive dashboard.
-
-<a href="https://github.com/satyajitsonkar96-afk/AirAware-System">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsonkar96-afk&repo=AirAware-System&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e" width="380"/>
-</a>
-
-**Stack:** `Python` · `scikit-learn` · `Streamlit` · `Pandas` · `Matplotlib`
-
-- Trained a **Random Forest Regressor** on 14 pollutant features to predict AQI across Indian cities
-- Built a 4-milestone architecture: preprocessing → forecasting → analysis → **Streamlit dashboard**
-- Implemented automated **health alerts** (Good → Hazardous) with city-wise 7-day forecasts
-- Designed modular, production-ready codebase with model serialization via **Joblib**
-- Dashboard provides real-time AQI overview, category classification, and trend visualization
-
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## GitHub Metrics
+<!-- ─────────────── PROJECT 3 ─────────────── -->
+
+<table>
+<tr>
+<td width="65%">
+
+### 🔷 Kubernetes Microservice — FastAPI + K8s on EC2
+> *Full container orchestration lifecycle — local to cloud.*
+
+**`FastAPI`** · **`Docker`** · **`Kubernetes`** · **`AWS EC2`** · **`kubeadm`**
+
+- Python microservice with FastAPI, containerized and pushed to **DockerHub**
+- EC2 provisioned with Docker + K8s tooling, cluster initialized via **kubeadm**
+- Deployed with Kubernetes manifests — **ReplicaSet-backed fault tolerance**
+- Service exposed externally via **NodePort** on EC2 public IP
+- Dual-environment validation: **Minikube** (local) + **AWS EC2** (production)
+
+<a href="https://github.com/satyajitsonkar96-afk/k8s-microservice">
+  <img src="https://img.shields.io/badge/VIEW_REPO_%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+</a>
+
+</td>
+<td width="35%" align="center">
+
+```
+┌─────────────────────┐
+│   FastAPI App        │
+│        ↓             │
+│   Docker Image       │
+│        ↓             │
+│   DockerHub          │
+│        ↓             │
+│   K8s Deployment     │
+│        ↓             │
+│   NodePort :30007 ✓  │
+└─────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────── PROJECT 4 ─────────────── -->
+
+<table>
+<tr>
+<td width="65%">
+
+### 🔷 AirAware — ML Air Quality Prediction System
+> *End-to-end ML pipeline with interactive Streamlit dashboard.*
+
+**`Python`** · **`scikit-learn`** · **`Streamlit`** · **`Pandas`** · **`Matplotlib`**
+
+- **Random Forest Regressor** trained on 14 pollutant features for AQI prediction
+- 4-milestone pipeline: preprocessing → forecasting → analysis → **dashboard**
+- Automated **health alerts** (Good → Hazardous) with city-wise 7-day forecasts
+- Modular, production-ready codebase with model serialization via **Joblib**
+- Real-time AQI overview, category classification, and trend visualization
+
+<a href="https://github.com/satyajitsonkar96-afk/AirAware-System">
+  <img src="https://img.shields.io/badge/VIEW_REPO_%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+</a>
+
+</td>
+<td width="35%" align="center">
+
+```
+┌─────────────────────┐
+│   Raw CSV Data       │
+│        ↓             │
+│   Preprocessing      │
+│        ↓             │
+│   Random Forest      │
+│        ↓             │
+│   AQI Prediction     │
+│        ↓             │
+│   Streamlit App ✓    │
+└─────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyajitsonkar96-afk&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e&ring_color=00b4d8&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitsonkar96-afk&theme=dark&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=e6edf3&sideNums=e6edf3&currStreakNum=e6edf3&dates=8b949e&stroke=30363d&border=30363d" alt="GitHub Streak"/>
+## 📈 GITHUB ACTIVITY
+
+<br/>
+
+<a href="https://github.com/satyajitsonkar96-afk">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitsonkar96-afk&theme=transparent&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&dates=555555&stroke=00000000" width="52%" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajitsonkar96-afk&bg_color=0d1117&color=00b4d8&line=00b4d8&point=e6edf3&area_color=00b4d8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
+<a href="https://github.com/satyajitsonkar96-afk">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajitsonkar96-afk&bg_color=00000000&color=00b4d8&line=00b4d8&point=e6edf3&area_color=00b4d8&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="90%" alt="Activity Graph"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitsonkar96-afk&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=8b949e" width="38%" alt="Languages"/>
 
 </div>
 
@@ -198,14 +297,20 @@ I operate across the full stack: writing backend services in **Flask** and **Fas
 
 ---
 
+<br/>
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=satyajitsonkar96-afk&style=flat-square&color=0d1117&labelColor=161b22&label=Profile+Views" alt="Profile Views"/>
+**Currently seeking global opportunities in Cloud Engineering, DevOps & Backend Systems.**
 
-**Open to global internship & full-time opportunities in Cloud Engineering, DevOps & Backend Systems.**
+*Let's build something that scales.* 🚀
 
-<sub>Ahilyanagar, Maharashtra, India · satyajitsonkar96@gmail.com · +91 9699985749</sub>
+<br/>
+
+<sub>📍 Ahilyanagar, Maharashtra, India &nbsp;·&nbsp; 📧 satyajitsonkar96@gmail.com &nbsp;·&nbsp; 📱 +91 9699985749</sub>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=satyajitsonkar96-afk&style=flat-square&color=00b4d8&labelColor=0d1117&label=visitors)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:0e4429,100:00b4d8&height=100&section=footer" width="100%" />
