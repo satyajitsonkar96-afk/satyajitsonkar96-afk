@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:0e4429,100:00b4d8&height=230&section=header&text=SATYAJIT%20SONKAR&fontSize=48&fontColor=e6edf3&fontAlignY=32&desc=Cloud%20Engineer%20%7C%20DevSecOps%20%7C%20Backend%20Systems&descSize=17&descAlignY=52&animation=fadeIn&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:0e4429,100:00b4d8&height=230&section=header&text=SATYAJIT%20SONKAR&fontSize=48&fontColor=e6edf3&fontAlignY=32&desc=Cloud%20%7C%20DevSecOps%20%7C%20Kubernetes%20%7C%20ML%20Systems&descSize=17&descAlignY=52&animation=fadeIn&descColor=8b949e" width="100%" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Building+production-grade+cloud+infrastructure+on+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=Building+production-grade+cloud+infrastructure+%7C+CI%2FCD+%7C+ML+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -26,9 +26,9 @@
 
 ## Who I Am
 
-I design and deploy **production-grade cloud infrastructure** and **automated delivery pipelines**. My work sits at the intersection of backend engineering, cloud architecture, and DevSecOps — building systems that are secure by default, scalable under load, and fully automated from commit to production.
+I design and deploy **production-grade cloud infrastructure**, **automated delivery pipelines**, and **ML-powered applications**. My work spans backend engineering, cloud architecture, DevSecOps, and applied machine learning — building systems that are secure by default, scalable under load, and fully automated from commit to production.
 
-I operate across the full deployment lifecycle: writing backend services in **Flask/Python**, packaging them with **Docker**, orchestrating with **Kubernetes**, and shipping through **Jenkins** and **GitHub Actions** pipelines — all running on hardened **AWS** infrastructure with IAM-enforced least-privilege access.
+I operate across the full stack: writing backend services in **Flask** and **FastAPI**, training and serving **ML models** with scikit-learn and Streamlit, packaging with **Docker**, orchestrating on **Kubernetes** clusters, and shipping through **Jenkins** and **GitHub Actions** — all on hardened **AWS** infrastructure with IAM-enforced least-privilege access.
 
 <br/>
 
@@ -65,15 +65,18 @@ I operate across the full deployment lifecycle: writing backend services in **Fl
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>Data & Databases</b></td>
+    <td><b>Data & ML</b></td>
     <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -132,6 +135,46 @@ I operate across the full deployment lifecycle: writing backend services in **Fl
 - Implemented complete CRUD with relational DB supporting concurrent data access
 - Hardened with Security Groups, env-based config, and restricted public access policies
 - Ensured HA via systemd service configuration for **automatic recovery on failure**
+
+<br clear="right"/>
+
+---
+
+### 🔷 Kubernetes Microservice Deployment — FastAPI on AWS EC2 + K8s
+
+> End-to-end container orchestration — from FastAPI source to a live K8s cluster on AWS.
+
+<a href="https://github.com/satyajitsonkar96-afk/k8s-microservice">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsonkar96-afk&repo=k8s-microservice&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e" width="380"/>
+</a>
+
+**Stack:** `FastAPI` · `Docker` · `Kubernetes` · `AWS EC2` · `kubeadm`
+
+- Built a Python microservice with FastAPI, containerized and pushed to **DockerHub**
+- Provisioned EC2 instance, installed Docker + K8s tooling, initialized cluster via **kubeadm**
+- Deployed via Kubernetes Deployment manifests with **ReplicaSet-backed fault tolerance**
+- Exposed service externally using **NodePort** on EC2 public IP
+- Validated locally on **Minikube** and in production on AWS — full dual-environment workflow
+
+<br clear="right"/>
+
+---
+
+### 🔷 AirAware — ML-Powered Air Quality Prediction System
+
+> End-to-end ML pipeline: data preprocessing → model training → prediction API → interactive dashboard.
+
+<a href="https://github.com/satyajitsonkar96-afk/AirAware-System">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=satyajitsonkar96-afk&repo=AirAware-System&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=8b949e" width="380"/>
+</a>
+
+**Stack:** `Python` · `scikit-learn` · `Streamlit` · `Pandas` · `Matplotlib`
+
+- Trained a **Random Forest Regressor** on 14 pollutant features to predict AQI across Indian cities
+- Built a 4-milestone architecture: preprocessing → forecasting → analysis → **Streamlit dashboard**
+- Implemented automated **health alerts** (Good → Hazardous) with city-wise 7-day forecasts
+- Designed modular, production-ready codebase with model serialization via **Joblib**
+- Dashboard provides real-time AQI overview, category classification, and trend visualization
 
 <br clear="right"/>
 
