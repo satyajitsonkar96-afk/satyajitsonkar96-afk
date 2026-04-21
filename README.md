@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyajitsonkar)
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyajitsonkar)
 [![Gmail](https://img.shields.io/badge/%20-satyajitsonkar96@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:satyajitsonkar96@gmail.com)
 [![GitHub](https://img.shields.io/badge/%20-satyajitsonkar96--afk-181717?style=flat&logo=github&logoColor=white)](https://github.com/satyajitsonkar96-afk)
 [![Location](https://img.shields.io/badge/%20-Ahilyanagar,%20India-1a73e8?style=flat&logo=googlemaps&logoColor=white)](#)
