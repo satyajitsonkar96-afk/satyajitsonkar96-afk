@@ -41,7 +41,7 @@ Every project I ship follows a consistent pattern — containerized services, in
 🎓  BSc Cloud Computing — 2027
 📍  Ahilyanagar, Maharashtra
 🔭  AWS Solutions Architect (Prep)
-🌐  English · 日本語 (N5)
+🌐  English
 ```
 
 </td>
